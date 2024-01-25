@@ -8,7 +8,6 @@ root.render(
   <div>
 
     <div>
-      <p>{restaurants[0].name}</p>
       <div>
         <h3>Меню</h3>
         <ul>
