@@ -7,6 +7,8 @@ export const Restaurants = ({rests}) => {
             <h1>{rests.name}</h1>  
             <h3>{rests.menu[0].name}</h3>
             <span>Привет</span>
+
+            
             <h3>{rests.menu[0].price}</h3>  
             <h3>{rests.menu[0].ingredients}</h3>  
         </div>
